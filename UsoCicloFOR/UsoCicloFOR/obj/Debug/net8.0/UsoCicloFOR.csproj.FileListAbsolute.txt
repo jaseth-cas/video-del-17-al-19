@@ -1,0 +1,14 @@
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\bin\Debug\net8.0\UsoCicloFOR.exe
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\bin\Debug\net8.0\UsoCicloFOR.deps.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\bin\Debug\net8.0\UsoCicloFOR.runtimeconfig.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\bin\Debug\net8.0\UsoCicloFOR.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\bin\Debug\net8.0\UsoCicloFOR.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\UsoCicloFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\UsoCicloFOR.AssemblyInfoInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\UsoCicloFOR.AssemblyInfo.cs
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\UsoCicloFOR.csproj.CoreCompileInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\UsoCicloFOR.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\refint\UsoCicloFOR.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\UsoCicloFOR.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\UsoCicloFOR.genruntimeconfig.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Videos-del-17-19\UsoCicloFOR\UsoCicloFOR\obj\Debug\net8.0\ref\UsoCicloFOR.dll
