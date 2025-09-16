@@ -1,0 +1,14 @@
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\bin\Debug\net8.0\ejemploWhile.exe
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\bin\Debug\net8.0\ejemploWhile.deps.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\bin\Debug\net8.0\ejemploWhile.runtimeconfig.json
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\bin\Debug\net8.0\ejemploWhile.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\bin\Debug\net8.0\ejemploWhile.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ejemploWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ejemploWhile.AssemblyInfoInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ejemploWhile.AssemblyInfo.cs
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ejemploWhile.csproj.CoreCompileInputs.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ejemploWhile.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\refint\ejemploWhile.dll
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ejemploWhile.pdb
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ejemploWhile.genruntimeconfig.cache
+C:\Users\Jaseth\OneDrive - Universidad Tecnológica de Panamá\Software IV\Practica\Tarea_14-16\ejemploWhile\ejemploWhile\obj\Debug\net8.0\ref\ejemploWhile.dll
